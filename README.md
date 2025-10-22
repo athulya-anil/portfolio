@@ -1,16 +1,19 @@
-# 🌻 Athulya Anil - Personal Portfolio
+# 🌻 Athulya Anil — Personal Portfolio
 
-A simple portfolio showcasing my projects, skills, and background in AI & Data Engineering.
+A simple portfolio website built with **React 19 + Vite 7**, showcasing my **projects, skills, and journey** in **AI, Data Engineering, and Software Development**.
 
 ---
 
 ## Tech Stack
 
-**Frontend:** React 19, Vite 7  
-**Styling:** Tailwind CSS 4, Custom theme colors  
-**Animation:** Framer Motion  
-**Icons:** React Icons  
-**Utilities:** React Scroll, ESLint, PostCSS
+| Category | Tools |
+|-----------|-------|
+| **Frontend** | React 19, Vite 7 |
+| **Styling** | Tailwind CSS 4, Custom amber theme |
+| **Animation** | Framer Motion |
+| **Icons** | React Icons, Lucide React |
+| **Utilities** | React Scroll, ESLint, PostCSS |
+| **Deployment** | GitHub Pages (via `gh-pages`) |
 
 ---
 
