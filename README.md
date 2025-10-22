@@ -1,16 +1,37 @@
-# React + Vite
+# 🌻 Athulya Anil - Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple portfolio showcasing my projects, skills, and background in AI & Data Engineering.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
 
-## React Compiler
+**Frontend:** React 19, Vite 7  
+**Styling:** Tailwind CSS 4, Custom theme colors  
+**Animation:** Framer Motion  
+**Icons:** React Icons  
+**Utilities:** React Scroll, ESLint, PostCSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```
+src/
+ ├── assets/          # Images & icons
+ ├── components/      # Reusable UI components
+ ├── sections/        # Hero, Projects, Contact, Footer
+ ├── App.jsx          # Main layout
+ ├── index.css        # Tailwind + global styles
+ └── main.jsx         # Entry point
+```
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+© 2025 Athulya Anil. Built with 💛 and lots of coffee.
