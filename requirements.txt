@@ -1,19 +1,35 @@
-@eslint/js@9.38.0
-@tailwindcss/postcss@4.1.15
-@types/react-dom@19.2.2
-@types/react@19.2.2
-@vitejs/plugin-react@5.0.4
-autoprefixer@10.4.21
-eslint-plugin-react-hooks@5.2.0
-eslint-plugin-react-refresh@0.4.24
-eslint@9.38.0
-framer-motion@12.23.24
-globals@16.4.0
-postcss@8.5.6
+# Project dependencies for my portfolio website
+# ------------------------------------------
+# Framework & Core Libraries
+react@19.2.0
 react-dom@19.2.0
 react-icons@5.5.0
 react-scroll@1.9.3
-react@19.2.0
-tailwindcss@4.1.15
+
+# Motion & Animations
+framer-motion@12.23.24
+
+# Build System
 vite@7.1.11
+@vitejs/plugin-react@5.0.4
+
+# Styling & Utilities
+tailwindcss@4.1.15
+@tailwindcss/postcss@4.1.15
+autoprefixer@10.4.21
+postcss@8.5.6
+
+# Types
+@types/react@19.2.2
+@types/react-dom@19.2.2
+
+# Linting & Quality
+eslint@9.38.0
+@eslint/js@9.38.0
+eslint-plugin-react-hooks@5.2.0
+eslint-plugin-react-refresh@0.4.24
+globals@16.4.0
+
+# Deployment
+gh-pages
 
