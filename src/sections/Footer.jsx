@@ -15,7 +15,7 @@ export default function Footer() {
         </a>
       </div>
       <p className="text-gray-500 text-sm">
-        © 2025 Athulya Anil. Built with ❤️ and lots of coffee.
+        © 2025 Athulya Anil. Built with 💛 and lots of coffee.
       </p>
     </footer>
   );
