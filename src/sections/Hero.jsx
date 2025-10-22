@@ -2,6 +2,8 @@ import React from "react";
 import { motion } from "framer-motion";
 import { FaLinkedin, FaGithub, FaCode } from "react-icons/fa";
 import headshot from "../assets/headshot.jpg";
+import leetcodeLogo from "../assets/LeetCode.png";
+
 
 export default function Hero() {
   return (
@@ -81,7 +83,7 @@ export default function Hero() {
             className="hover:scale-130 hover:drop-shadow-[0_0_8px_#F7B733] transition-all duration-300 ease-out"
           >
             <img
-              src="/src/assets/LeetCode.png"
+              src={leetcodeLogo}
               alt="LeetCode"
               className="w-10 h-10 object-contain align-middle translate-y-[4px] hover:scale-125 hover:drop-shadow-[0_0_8px_#F7B733] transition-all duration-300 ease-out"
             />
