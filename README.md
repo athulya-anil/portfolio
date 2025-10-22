@@ -31,7 +31,3 @@ src/
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-© 2025 Athulya Anil. Built with 💛 and lots of coffee.
