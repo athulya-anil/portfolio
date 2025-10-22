@@ -7,9 +7,9 @@ export default function Header() {
 
   return (
     <header className="fixed top-0 left-0 w-full bg-[#FFF8E1]/90 backdrop-blur-md shadow-md border-b border-[#E6A500]/20 z-50">
-      <nav className="max-w-6xl mx-auto flex items-center justify-between px-4 sm:px-6 py-3 sm:py-4">
+      <nav className="max-w-6xl mx-auto flex items-center justify-between px-6 sm:px-8 py-5 sm:py-6">
         {/* Brand */}
-        <h1 className="text-lg sm:text-xl md:text-2xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-[#F7B733] to-[#E69600] tracking-tight whitespace-nowrap">
+        <h1 className="text-xl sm:text-2xl md:text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-[#F7B733] to-[#E69600] tracking-tight whitespace-nowrap">
           Athulya Anil
         </h1>
 
