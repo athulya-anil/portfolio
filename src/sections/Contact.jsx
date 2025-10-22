@@ -63,7 +63,7 @@ export default function Contact() {
                   <Coffee className="w-6 h-6" />
                 </div>
                 <div>
-                  <h3 className="font-semibold text-lg">15-Minute Coffee Chat ☕</h3>
+                  <h3 className="font-semibold text-lg">15-Minute Coffee Chat</h3>
                   <p className="text-sm text-gray-600">Let’s grab a virtual coffee</p>
                   <a
                     href="https://calendly.com/athulyaanil-umass/15-minute-coffee-chat"

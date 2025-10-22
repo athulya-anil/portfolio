@@ -1,4 +1,10 @@
 // src/components/projectsData.js
+
+import vertexrag from "../assets/vertexrag.png";
+import querymind from "../assets/querymind.png";
+import drone from "../assets/drone-route-optimization.png";
+import hospital from "../assets/hospital-readmission.png";
+
 export const projects = [
   {
     id: 1,
@@ -14,7 +20,7 @@ export const projects = [
       "Streamlit",
       "RAG",
     ],
-    image: "/src/assets/vertexrag.png",
+    image: vertexrag,
     github: "https://github.com/athulya-anil/vertex-RAG-engine",
   },
   {
@@ -30,7 +36,7 @@ export const projects = [
       "Self-Reflection Engine",
       "AI Agent",
     ],
-    image: "/src/assets/querymind.png",
+    image: querymind,
     github: "https://github.com/athulya-anil/QueryMind",
     live: "https://querymind-ai.streamlit.app/",
   },
@@ -41,7 +47,7 @@ export const projects = [
     description:
       "Dynamic route optimization for delivery drones using real-time weather, traffic, and airspace data via Apache Kafka and Flink.",
     tags: ["Kafka", "Flink", "Python", "Java", "Streaming"],
-    image: "/src/assets/drone-route-optimization.png",
+    image: drone,
     github: "https://github.com/athulya-anil/drone-route-optimization",
   },
   {
@@ -51,7 +57,7 @@ export const projects = [
     description:
       "Interactive dashboard analyzing U.S. hospital readmission trends across diagnoses, medications, and demographics using React + D3.",
     tags: ["React", "D3.js", "Plotly", "TailwindCSS", "DataViz"],
-    image: "/src/assets/hospital-readmission.png",
+    image: hospital,
     github: "https://github.com/athulya-anil/hospital-readmission",
     live: "https://athulya-anil.github.io/hospital-readmission/",
   },
