@@ -16,8 +16,7 @@ const ProjectsSection = () => {
           My Projects
         </h2>
         <p className="text-gray-600 max-w-2xl mx-auto">
-          Some of my recent AI and data-driven systems — each blending
-          engineering precision with creative design.
+          Bringing ideas from my head to life through code is what keeps me going. Here’s a look at the projects that keep me busy.
         </p>
         <div className="w-24 h-1 bg-[#f5b642] mx-auto mt-5 rounded-full"></div>
       </div>

@@ -40,9 +40,7 @@ export default function Hero() {
         </h2>
 
         <p className="text-gray-700 leading-relaxed">
-          Computer Science graduate from UMass Amherst with a deep passion for AI and data-driven
-          systems. I’m driven by the potential to build intelligent software that can reason,
-          reflect, and improve itself.
+          Computer Science graduate from UMass Amherst focused on building intelligent, data-driven systems that reason, adapt, and improve. I’m motivated by the challenge of turning complex ideas into working AI-powered solutions.
         </p>
 
         <div className="flex gap-4 pt-4">

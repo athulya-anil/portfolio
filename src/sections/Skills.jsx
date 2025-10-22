@@ -145,9 +145,6 @@ export default function Skills() {
             </p>
 
             <div className="flex justify-center gap-4 mt-6 opacity-80">
-              <span className="w-6 h-6 bg-amber-50 rounded-full shadow-sm"></span>
-              <span className="w-8 h-8 bg-amber-100 rounded-full shadow-sm"></span>
-              <span className="w-10 h-10 bg-white rounded-full shadow-sm"></span>
             </div>
           </div>
         </motion.div>

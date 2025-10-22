@@ -16,8 +16,7 @@ export default function Contact() {
           </span>
         </h2>
         <p className="text-center text-gray-600 mb-14 max-w-2xl mx-auto">
-          Have a project idea? Want to chat about tech or AI?  
-          I’d love to hear from you — feel free to reach out!
+          Always open to connecting, sharing ideas, and exploring roles or projects that push the boundaries of what technology can do.
         </p>
 
         {/* Contact Layout */}
